@@ -48,6 +48,7 @@ origins = [
     "http://127.0.0.1:8080",
     # --- ACTION: ADD YOUR GITHUB PAGES URL HERE ---
     "https://iqras-gif.github.io",
+    "https://aicareer-coach.github.io"
 ]
 app.add_middleware(
     CORSMiddleware,
