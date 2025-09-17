@@ -46,6 +46,8 @@ origins = [
     "http://localhost:8080",
     "http://127.0.0.1",
     "http://127.0.0.1:8080",
+    # --- ACTION: ADD YOUR GITHUB PAGES URL HERE ---
+    "https://iqras-gif.github.io",
 ]
 app.add_middleware(
     CORSMiddleware,
